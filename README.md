@@ -16,7 +16,6 @@ Estudante de Sistemas de Informação na Universidade Federal de Goiás (UFG), o
 Apaixonado por tecnologia e soluções inovadoras.  
 Vencedor da [6ª Olimpíada de Empreendedorismo Universitário](https://prpi.ufg.br/n/121319-olimpiada-de-empreendedorismo-da-ufg-premia-vencedores) na categoria negócios, realizado pela UFG em 2019.
 
-<br>
 <h2 id="tecnologias"> 💻🛠 Tecnologias </h2>
 
 - [JavaScript](https://www.javascript.com/)
@@ -29,10 +28,8 @@ Vencedor da [6ª Olimpíada de Empreendedorismo Universitário](https://prpi.ufg
 - [Java](https://www.oracle.com/br/java/)  
 ...
 
-<br>
 <h2 id="habilidades"> 😎 Habilidades </h2>
 
 Habilidades com design de frontends, edição de vídeos e imagens, com a utilização de ferramentas como Premier, After Effects, Figma e dentre outros.  
 Também tenho habilidades em robótica e vôos com drone.
 
-<br>
