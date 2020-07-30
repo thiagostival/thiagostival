@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-stival/)](https://www.linkedin.com/in/thiago-stival/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagofilipestival5@gmail.com)](mailto:thiagofilipestival5@gmail.com)
 
-[👉 Sobre](#sobre)   [👉 Tecnologias](#tecnologias)   [👉 Habilidades](#habilidades)
+👉 [Sobre](#sobre)     👉 [Tecnologias](#tecnologias)     👉 [Habilidades](#habilidades)
 
 
 ![banner](https://github.com/thiagostival/thiagostival/blob/master/banner1.jpg)
@@ -16,6 +16,8 @@ Estudante de Sistemas de Informação na Universidade Federal de Goiás (UFG), o
 Apaixonado por tecnologia e soluções inovadoras.  
 Vencedor da [6ª Olimpíada de Empreendedorismo Universitário](https://prpi.ufg.br/n/121319-olimpiada-de-empreendedorismo-da-ufg-premia-vencedores) na categoria negócios, realizado pela UFG em 2019.
 
+<br>
+
 <h2 id="tecnologias"> 💻🛠 Tecnologias </h2>
 
 - [JavaScript](https://www.javascript.com/)
@@ -27,6 +29,8 @@ Vencedor da [6ª Olimpíada de Empreendedorismo Universitário](https://prpi.ufg
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Java](https://www.oracle.com/br/java/)  
 ...
+
+<br>
 
 <h2 id="habilidades"> 😎 Habilidades </h2>
 
