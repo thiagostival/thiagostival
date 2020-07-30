@@ -8,15 +8,13 @@
 
 ![banner](https://github.com/thiagostival/thiagostival/blob/master/banner1.jpg)
 
-<br>
+<br/>
 <h2 id="sobre">📖 Sobre</h2>
 
 Técnico em informática pelo Instituto Federal de Góias (IFG), curso integrado ao ensino médio.  
 Estudante de Sistemas de Informação na Universidade Federal de Goiás (UFG), onde sou pesquisador participante do grupo de pesquisa [GOINSIGHT](http://ww2.inf.ufg.br/~insight/), com projeto ativo sobre o uso de blockchain nos históricos médicos.  
 Apaixonado por tecnologia e soluções inovadoras.  
 Vencedor da [6ª Olimpíada de Empreendedorismo Universitário](https://prpi.ufg.br/n/121319-olimpiada-de-empreendedorismo-da-ufg-premia-vencedores) na categoria negócios, realizado pela UFG em 2019.
-
-<br>
 
 <h2 id="tecnologias"> 💻🛠 Tecnologias </h2>
 
@@ -29,8 +27,6 @@ Vencedor da [6ª Olimpíada de Empreendedorismo Universitário](https://prpi.ufg
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Java](https://www.oracle.com/br/java/)  
 ...
-
-<br>
 
 <h2 id="habilidades"> 😎 Habilidades </h2>
 
