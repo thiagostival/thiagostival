@@ -1,7 +1,6 @@
 # 👨‍💻 Thiago Stival
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagostival)](https://github.com/thiagostival)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-stival/)](https://www.linkedin.com/in/thiago-stival/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagofilipestival5@gmail.com)](mailto:thiagofilipestival5@gmail.com)
 
 👉 [Sobre](#sobre)     👉 [Tecnologias](#tecnologias)     👉 [Habilidades](#habilidades)
 
