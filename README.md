@@ -5,7 +5,7 @@
 👉 [Sobre](#sobre)     👉 [Tecnologias](#tecnologias)     👉 [Habilidades](#habilidades)
 
 
-![banner](https://github.com/thiagostival/thiagostival/blob/master/background.jpg)
+![banner](https://github.com/thiagostival/thiagostival/blob/master/banner.jpg)
 
 <br/>
 <h2 id="sobre">📖 Sobre</h2>
